@@ -3,9 +3,6 @@
 # Hi 👋, I'm Bereket Asfaw
 
 ### A passionate full stack developer
-
-![Profile views](https://komarev.com/ghpvc/?username=bereket94&color=007ec6&style=flat-square)
-
 </div>
 
 <p align="center">
@@ -17,13 +14,13 @@
 ---
 
 * 🌱 I’m currently learning **Advanced Web & Mobile Programming**
-* 💻 All of my projects are available at [Bereket Asfaw's Portfolio](https://yourportfolio.link) *(<- Update with your link)*
-* 📬 How to reach me **your-email@gmail.com** *(<- Update with your email)*
+* 💻 All of my projects are available at [Bereket Asfaw's Portfolio](https://bereket94.github.io/PORTIFOLIO/)
+* 📬 How to reach me **(https://bereket94.github.io/PORTIFOLIO/)**
 
 ### Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="blank">
+  <a href="https://linkedin.com/in/bereketasfaw" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://instagram.com/yourusername" target="blank">
