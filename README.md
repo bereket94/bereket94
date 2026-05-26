@@ -9,9 +9,9 @@
   </a>
 </p>
 </div>
-* 🌱 I’m currently learning **Advanced Web & Mobile Programming**
-* 💻 All of my projects are available at [Bereket Asfaw's Portfolio](https://bereket94.github.io/PORTIFOLIO/)
-* 📬 How to reach me **bereketasfaw94@gmail.com**
+* 🌱 I’m currently learning **Advanced Web & Mobile Programming**<br>
+* 💻 All of my projects are available at [Bereket Asfaw's Portfolio](https://bereket94.github.io/PORTIFOLIO/)<br>
+* 📬 How to reach me **bereketasfaw94@gmail.com**<br>
 
 ### Connect with me:
 
