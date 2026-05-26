@@ -3,23 +3,33 @@
 # Hi 👋, I'm Bereket Asfaw
 
 ### A passionate full stack developer
+
+![Profile views](https://komarev.com/ghpvc/?username=bereket94&color=007ec6&style=flat-square)
+
+</div>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy-fork-two.vercel.app/?username=bereket94&theme=onedark&column=7&margin-w=15&margin-h=15" alt="github trophies" />
   </a>
 </p>
-</div>
-* 🌱 I’m currently learning **Advanced Web & Mobile Programming**<br>
-* 💻 All of my projects are available at [Bereket Asfaw's Portfolio](https://bereket94.github.io/PORTIFOLIO/)<br>
-* 📬 How to reach me **bereketasfaw94@gmail.com**<br>
+
+---
+
+* 🌱 I’m currently learning **Advanced Web & Mobile Programming**
+* 💻 All of my projects are available at [Bereket Asfaw's Portfolio](https://yourportfolio.link) *(<- Update with your link)*
+* 📬 How to reach me **your-email@gmail.com** *(<- Update with your email)*
 
 ### Connect with me:
 
 <p align="left">
-  <a href="https://instagram.com/bekasfw" target="blank">
+  <a href="https://linkedin.com/in/yourusername" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/yourusername" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
   <a href="https://t.me/bereket_94_asfaw" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="telegram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" height="30" />
   </a>
 </p>
