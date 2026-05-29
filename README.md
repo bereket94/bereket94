@@ -4,7 +4,6 @@
 
 ### A passionate full stack developer
 </div>
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy-fork-two.vercel.app/?username=bereket94&theme=onedark&column=7&margin-w=15&margin-h=15" alt="github trophies" />
