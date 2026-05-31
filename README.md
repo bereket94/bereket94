@@ -26,12 +26,11 @@
 
 
 ---
-<div align="left">
-  ## 👨‍💻 About Me
+
 - 🌱 I’m currently learning **Advanced Web & Mobile Programming**
-- 💻 Portfolio: [Bereket Asfaw](https://bereket94.github.io/PORTIFOLIO/)
-- 📬 Email: **bereketasfaw94@gmail.com**
-</div>
+- 💻 All of my projects are available at [Bereket Asfaw's Portfolio](https://bereket94.github.io/PORTIFOLIO/)
+- 📬 How to reach me **bereketasfaw94@gmail.com**
+
 
 ---
 ## 🌐 Connect with me
