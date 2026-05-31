@@ -28,5 +28,7 @@
   <a href="https://t.me/bereket_94_asfaw" target="blank">
     <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" height="30" width="40" />
   </a>
+  <p align="center">
   <img src="./README-assets/github-stats.png" alt="GitHub Stats" />
+</p>
 </p>
