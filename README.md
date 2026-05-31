@@ -23,10 +23,13 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bereket94&theme=react-dark" alt="Activity Graph" />
 </div>
-## 👨‍💻 About Me
+<div>
+  ## 👨‍💻 About Me
 - 🌱 I’m currently learning **Advanced Web & Mobile Programming**
 - 💻 Portfolio: [Bereket Asfaw](https://bereket94.github.io/PORTIFOLIO/)
 - 📬 Email: **bereketasfaw94@gmail.com**
+</div>
+
 ---
 ## 🌐 Connect with me
 <div align="center">
