@@ -8,13 +8,18 @@
 <p align="center">
   <img src="https://github-profile-trophy-fork-two.vercel.app/?username=bereket94&theme=onedark&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
+
 ---
+
 <div align="center">
   <img src="https://deno-visualize-stats.deno.dev/api?username=bereket94&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://deno-visualize-stats.deno.dev/api/top-langs/?username=bereket94&layout=compact&theme=dark" alt="Top Languages" />
-</div>
+</div
+  
 ---
+
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bereket94&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
