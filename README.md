@@ -16,11 +16,15 @@
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bereket94&show_icons=true&theme=onedark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereket94&layout=donut&theme=onedark" height="180"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bereket94&show_icons=true&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bereket94&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bereket94&layout=compact&theme=dark&hide_border=true)
+
+</div>
 
 ---
 
