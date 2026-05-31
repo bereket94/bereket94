@@ -19,9 +19,6 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bereket94&show_icons=true&theme=dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bereket94&theme=dark&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bereket94&layout=compact&theme=dark&hide_border=true)
 
 </div>
@@ -31,7 +28,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bereket94&theme=onedark" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bereket94&theme=dark&hide_border=true)
 </p>
 
 ---
