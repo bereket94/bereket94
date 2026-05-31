@@ -19,8 +19,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bereket94&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereket94&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://deno-visualize-stats.deno.dev/api?username=bereket94&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://deno-visualize-stats.deno.dev/api/top-langs/?username=bereket94&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 ---
