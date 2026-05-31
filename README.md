@@ -11,9 +11,11 @@
 
 ---
 
+
 <div align="center">
   <img src="https://deno-visualize-stats.deno.dev/api?username=bereket94&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br/><br/>
+  <br/><br/><br/>
+  
   <img src="https://deno-visualize-stats.deno.dev/api/top-langs/?username=bereket94&layout=compact&theme=dark" alt="Top Languages" />
 </div
   
