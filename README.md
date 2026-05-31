@@ -23,6 +23,8 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bereket94&theme=react-dark" alt="Activity Graph" />
 </div>
+
+
 ---
 <div align="left">
   ## 👨‍💻 About Me
