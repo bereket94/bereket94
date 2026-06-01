@@ -26,6 +26,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bereket94&theme=react-dark" alt="Activity Graph" />
 </div>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bereket94&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bereket94&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bereket94&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bereket94&theme=github_dark&utcOffset=3" />
+</p>
 
 ---
 
