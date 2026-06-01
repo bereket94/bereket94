@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Bereket Asfaw
+Hi 👋, I'm Bereket Asfaw
 
-### A passionate full stack developer
+ A passionate full stack developer
 
 </div>
 <p align="center">
@@ -39,7 +39,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,php,mysql,git,github,vscode" />
@@ -48,13 +48,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bereket94&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
----
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bereket94/bereket94/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
 ---
 
 - 🌱 I’m currently learning **Advanced Web & Mobile Programming**
@@ -90,3 +83,14 @@
 <div align="center">
   <sub>⭐️ Feel free to explore my repositories and connect with me! ⭐️</sub>
 </div>
+
+
+
+
+
+------
+🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bereket94/bereket94/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
