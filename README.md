@@ -12,13 +12,14 @@
 ---
 
 
-<div align="center">
-  <img src="https://deno-visualize-stats.deno.dev/api?username=bereket94&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br/><br/><br/>
-  
-  <img src="https://deno-visualize-stats.deno.dev/api/top-langs/?username=bereket94&layout=compact&theme=dark" alt="Top Languages" />
-</div
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bereket94&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereket94&layout=compact&theme=github_dark" />
+</p>
+
 ---
 
 
