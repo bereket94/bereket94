@@ -48,6 +48,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bereket94&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bereket94/bereket94/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
 ---
 
@@ -80,10 +86,6 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bereket94/bereket94/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 ---
 <div align="center">
   <sub>⭐️ Feel free to explore my repositories and connect with me! ⭐️</sub>
