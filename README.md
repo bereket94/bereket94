@@ -12,7 +12,7 @@
 ---
 
 
-<p align="center" color="green">
+<p align="center", color="green">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bereket94&theme=github_dark" />
 </p>
 
