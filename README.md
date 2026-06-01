@@ -49,10 +49,9 @@
   <img src="https://komarev.com/ghpvc/?username=bereket94&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 ---
-
-#- 🌱 I’m currently learning **Advanced Web & Mobile Programming**
-#- 💻 All of my projects are available at [Bereket Asfaw's Portfolio](https://bereket94.github.io/PORTIFOLIO/)
-#- 📬 How to reach me **bereketasfaw94@gmail.com**
+- 🌱 I’m currently learning **Advanced Web & Mobile Programming**
+- 💻 All of my projects are available at [Bereket Asfaw's Portfolio](https://bereket94.github.io/PORTIFOLIO/)
+- 📬 How to reach me **bereketasfaw94@gmail.com**
 
 
 ---
