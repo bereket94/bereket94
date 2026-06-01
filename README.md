@@ -6,15 +6,14 @@
 
 </div>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bereket94&theme=github_dark" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=bereket94&theme=onedark&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bereket94&show_icons=true&theme=github_dark&cache_seconds=1800" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bereket94&theme=github_dark" />
 </p>
 
 ---
