@@ -1,8 +1,8 @@
 <div align="center">
 
-### Hi 👋, I'm Bereket Asfaw
+# Hi 👋, I'm Bereket Asfaw
 
-# A passionate full stack developer
+## A passionate full stack developer
 
 </div>
 <p align="center">
