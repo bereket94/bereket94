@@ -6,7 +6,7 @@
 
 </div>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bereket94" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bereket94&theme=algolia&no-frame=true&margin-w=10" />
 </p>
 
 ---
