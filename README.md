@@ -55,15 +55,6 @@
 - 💻 All of my projects are available at [Bereket Asfaw's Portfolio](https://bereket94.github.io/PORTIFOLIO/)
 - 📬 How to reach me **bereketasfaw94@gmail.com**
 
-
----
-## 🚀 Featured Projects
-
-- 🏨 Hotel Management System
-- 📱 Mobile Registration App
-- 🛒 E-Commerce Website
-- 🎓 Student Management System
-
 ---
 
 ## 🌐 Connect with me
@@ -88,7 +79,6 @@
 
 
 
-##🐍 Contribution Snake
 ----
 
 <p align="center">
