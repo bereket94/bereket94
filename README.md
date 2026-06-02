@@ -6,7 +6,7 @@
 
 </div>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bereket94&theme=onedark&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bereket94&show_icons=true&theme=onedark&hide_border=true" />
 </p>
 
 ---
