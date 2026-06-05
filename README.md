@@ -6,7 +6,7 @@
 
 </div>
 <p align="center">
-  <img src="https://deno-visualize-stats.deno.dev/api?username=bereket94&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=bereket94&theme=onedark&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
