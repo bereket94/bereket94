@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌍 Full Stack Developer from **Addis Ababa, Ethiopia 🇪🇹**
+- 🌍 Full Stack Developer from **Hosaina,Addis Ababa, Ethiopia 🇪🇹**
 - 🌱 Currently learning **Advanced Web & Mobile Programming**
 - 💼 All of my projects are available at **[bereketasfaw.portfolio](https://bereket94.github.io/PORTIFOLIO/)**
 - 📬 Reach me at **bereketasfaw94@gmail.com**
