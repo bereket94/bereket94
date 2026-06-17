@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌍 Full Stack Developer from **Hosaina,Addis Ababa, Ethiopia 🇪🇹**
+- 🌍 Full Stack Developer from **Hosaina, Ethiopia 🇪🇹**
 - 🌱 Currently learning **Advanced Web & Mobile Programming**
 - 💼 All of my projects are available at **[bereketasfaw.portfolio](https://bereket94.github.io/PORTIFOLIO/)**
 - 📬 Reach me at **bereketasfaw94@gmail.com**
@@ -56,7 +56,6 @@
 ## 🌐 Connect with Me
 
 <div align="center">
-
   <a href="https://linkedin.com/in/bereketasfaw" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -76,7 +75,6 @@
   <a href="https://bereket94.github.io/PORTIFOLIO/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-
 </div>
 
 ---
