@@ -7,9 +7,8 @@
 🌍 Ethiopia 🇪🇹
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=bereket94&theme=onedark&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=bereket94&theme=onedark&column=7&margin-w=15&margin-h=15" />
 </div>
-
 
 ---
 
