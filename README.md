@@ -1,14 +1,20 @@
 <div align="center">
 
-# Hi 👋, I'm Bereket Asfaw
-
-### Computer Science Student 🎓 | Full Stack Developer 💻 | Future Penetration Tester 🔐
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B,+I'm+Bereket+Asfaw;Computer+Science+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;System+Administration+Enthusiast+%E2%9A%99%EF%B8%8F;Future+Penetration+Tester+%F0%9F%94%90;Building,+Learning,+And+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 **Full Stack Developer | System Administration | Cybersecurity Enthusiast**
 
 🌍 Ethiopia 🇪🇹
 
-<img src="https://img.shields.io/badge/Building%2C%20Learning%20And%20Growing-00D9FF?style=for-the-badge" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy-sigma-smoky.vercel.app/?username=bereket94&theme=onedark&column=7&margin-w=15&margin-h=15" />
 
 </div>
 
@@ -92,16 +98,21 @@ Check out my repositories for more projects and experiments.
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/bereket94?tab=followers">
-<img src="https://img.shields.io/github/followers/bereket94?style=for-the-badge&logo=github&label=Followers" />
-</a>
-<a href="https://github.com/bereket94?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-26-00D9FF?style=for-the-badge&logo=github" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bereket94&theme=github_dark" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bereket94&theme=react-dark" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bereket94&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bereket94&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bereket94&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bereket94&theme=github_dark&utcOffset=3" />
+
+<img src="https://streak-stats.demolab.com/?user=bereket94&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 </div>
 
@@ -135,7 +146,19 @@ Check out my repositories for more projects and experiments.
 
 ---
 
+## 👀 Profile Visitors
+
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=bereket94&label=Profile%20Views&color=00D9FF&style=flat" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/bereket94/bereket94/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 ### 💡 "Learn continuously. Build consistently. Secure everything."
 
