@@ -13,8 +13,7 @@
 ## 🏆 GitHub Trophies
 <div align="center">
 
-<img src="https://github-profile-trophy-sigma-smoky.vercel.app/?username=bereket94&theme=onedark&column=7&margin-w=15&margin-h=15" />
-
+[![trophy](https://github-profile-trophy.vercel.app/?bereket94=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
