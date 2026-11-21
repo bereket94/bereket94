@@ -15,6 +15,17 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?bereket94=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
+## 🏆 GitHub Highlights
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/bereket94?style=for-the-badge&logo=github&label=Followers" />
+<img src="https://img.shields.io/badge/Repositories-27-00D9FF?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20SysAdmin%20%7C%20Pentesting-0A66C2?style=for-the-badge" />
+
+</div>
+
+---
 
 ---
 
